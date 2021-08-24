@@ -4,8 +4,10 @@
 
 ### Technical Software Development
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rainwater Harvesting Table]
+<img src="images/TSD/Output1?raw=true"/>
+<img src="images/TSD/Output2?raw=true"/>
+<img src="images/TSD/Output3?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
