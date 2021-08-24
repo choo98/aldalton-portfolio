@@ -73,7 +73,6 @@ Incident Data]
 <img src="images/InterfaceDesign/Highchart.PNG?raw=true"/>
 <img src="images/InterfaceDesign/Highchart2.PNG?raw=true"/>
 <img src="images/InterfaceDesign/Highchart3.PNG?raw=true"/>
-<img src="images/InterfaceDesign/Highchart4.PNG?raw=true"/>
 
 
 
