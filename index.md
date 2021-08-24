@@ -54,7 +54,7 @@ Incident Data]
 ---
 [Notification app]
 <br>
-<img src="images/Android/Notification1.PNG?raw=true"/>
+<img src="images/Android/Notification.PNG?raw=true"/>
 <br>
 <img src="images/Android/Notification2.PNG?raw=true"/>
 <br>
