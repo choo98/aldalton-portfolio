@@ -60,6 +60,15 @@ Incident Data]
 <br>
 <img src="images/Android/Notification3.PNG?raw=true"/>
 
+---
+### Interface Design
+[Replication of Corsair website using AngularJS]
+<img src="images/InterfaceDesign/Website.PNG?raw=true"/>
+<img src="images/InterfaceDesign/Website2.PNG?raw=true"/>
+<img src="images/InterfaceDesign/Website3.PNG?raw=true"/>
+<img src="images/InterfaceDesign/Website4.PNG?raw=true"/>
+
+
 
 
 
