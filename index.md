@@ -23,11 +23,11 @@ Incident Data]
 
 ---
 ### Text-Based RPG Game coded with C++ 
-## Link to demo video: (<a href="https://www.youtube.com/watch?v=UaTi9NMVs7E"></a>
-<img src="images/Data Structures/Event.PNG?raw=true"/>
+## Link to demo video: (<a href="https://www.youtube.com/watch?v=UaTi9NMVs7E"></a>)
+<img src="images/Data Structures/Menu.PNG?raw=true"/>
 <img src="images/Data Structures/Help.PNG?raw=true"/>
 <img src="images/Data Structures/Inventory.PNG?raw=true"/>
-<img src="images/Data Structures/Menu.PNG?raw=true"/>
+<img src="images/Data Structures/Event.PNG?raw=true"/>
 <img src="images/Data Structures/Quest.PNG?raw=true"/>
 <img src="images/Data Structures/Riddle.PNG?raw=true"/>
 
