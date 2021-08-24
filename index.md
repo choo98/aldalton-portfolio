@@ -74,7 +74,15 @@ Incident Data]
 <img src="images/InterfaceDesign/Highchart2.PNG?raw=true"/>
 <img src="images/InterfaceDesign/Highchart3.PNG?raw=true"/>
 
+---
+### Internet Of Things (IOT)
+Designed an IoT device to detect room temperature and light density.
+<p style="font-size:11px">Link to video demonstration <a href="https://www.youtube.com/watch?v=6iy1MO1Hi74 ">Video Demonstration</a></p>
 
+<img src="images/IoT/ArduinoSetUp.jpg?raw=true"/>
+<img src="images/IoT/IoT.jpg?raw=true"/>
+<img src="images/IoT/IoT2.jpeg?raw=true"/>
+<img src="images/IoT/IoTWebsite.PNG?raw=true"/>
 
 
 
