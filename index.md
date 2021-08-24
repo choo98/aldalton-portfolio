@@ -62,14 +62,14 @@ Incident Data]
 
 ---
 ### Interface Design
-[Replication of Corsair website using AngularJS]
+[Replication of Corsair website using AngularJS and Bootstrap]
 <img src="images/InterfaceDesign/Website.PNG?raw=true"/>
 <img src="images/InterfaceDesign/Website2.PNG?raw=true"/>
 <img src="images/InterfaceDesign/Website3.PNG?raw=true"/>
 <img src="images/InterfaceDesign/Website4.PNG?raw=true"/>
 
 ---
-[Weather Forecast using AngularJS and HighchartJS]
+[Weather Forecast using AngularJS and HighchartJS and Bootstrap]
 <img src="images/InterfaceDesign/Highchart.PNG?raw=true"/>
 <img src="images/InterfaceDesign/Highchart2.PNG?raw=true"/>
 <img src="images/InterfaceDesign/Highchart3.PNG?raw=true"/>
