@@ -5,9 +5,9 @@
 ### Technical Software Development
 
 [Rainwater Harvesting Table]
-<img src="images/TSD/Output1?raw=true"/>
-<img src="images/TSD/Output2?raw=true"/>
-<img src="images/TSD/Output3?raw=true"/>
+<img src="images/TSD/Output1.PNG?raw=true"/>
+<img src="images/TSD/Output2.PNG?raw=true"/>
+<img src="images/TSD/Output3.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
