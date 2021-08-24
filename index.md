@@ -33,9 +33,12 @@ Incident Data]
 
 ---
 ### Android Apps
+
 [Burger App and Cafe app]
 <img src="images/Android/Burger App.PNG?raw=true"/>
+<br>
 <img src="images/Android/English.PNG?raw=true"/>
+<br>
 <img src="images/Android/in france.PNG?raw=true"/>
 
 
