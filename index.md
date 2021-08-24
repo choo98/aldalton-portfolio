@@ -42,6 +42,7 @@ Incident Data]
 <br>
 <img src="images/Android/in france.PNG?raw=true"/>
 
+---
 [Cinema Booking app]
 <br>
 <img src="images/Android/CinemaBooking.PNG?raw=true"/>
@@ -49,6 +50,15 @@ Incident Data]
 <img src="images/Android/CinemaBooking2.PNG?raw=true"/>
 <br>
 <img src="images/Android/CinemaBooking3.PNG?raw=true"/>
+
+---
+[Notification app]
+<br>
+<img src="images/Android/Notification1.PNG?raw=true"/>
+<br>
+<img src="images/Android/Notification2.PNG?raw=true"/>
+<br>
+<img src="images/Android/Notification3.PNG?raw=true"/>
 
 
 
