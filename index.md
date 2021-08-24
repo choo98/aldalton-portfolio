@@ -17,11 +17,19 @@ Incident Data]
 <img src="images/TSD/oht_short.txt_output.PNG?raw=true"/>
 
 ---
-### Manhattan Tourist Problem Game created using C
+### Manhattan Tourist Problem Game coded with C
 <img src="images/MTP/MTP.PNG?raw=true"/>
 <img src="images/MTP/MTP2.PNG?raw=true"/>
 
 ---
+### Text-Based RPG Game coded with C++ 
+## Link to demo video: (<a href="https://www.youtube.com/watch?v=UaTi9NMVs7E"></a>
+<img src="images/Data Structures/Event.PNG?raw=true"/>
+<img src="images/Data Structures/Help.PNG?raw=true"/>
+<img src="images/Data Structures/Inventory.PNG?raw=true"/>
+<img src="images/Data Structures/Menu.PNG?raw=true"/>
+<img src="images/Data Structures/Quest.PNG?raw=true"/>
+<img src="images/Data Structures/Riddle.PNG?raw=true"/>
 
 
 
