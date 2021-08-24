@@ -10,8 +10,11 @@
 <img src="images/TSD/Output3.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bulk Analysis of Overhead Line Tripping
+Incident Data]
+<img src="images/TSD/oht_data.txt_output.PNG?raw=true"/>
+<img src="images/TSD/oht_long.txt_output.PNG?raw=true"/>
+<img src="images/TSD/oht_short.txt_output.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
