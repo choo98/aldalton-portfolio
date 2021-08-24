@@ -17,7 +17,7 @@ Incident Data]
 <img src="images/TSD/oht_short.txt_output.PNG?raw=true"/>
 
 ---
-### MTP Game created using C
+### Manhattan Tourist Problem Game created using C
 <img src="images/MTP/MTP.PNG?raw=true"/>
 <img src="images/MTP/MTP2.PNG?raw=true"/>
 
